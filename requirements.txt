@@ -1,0 +1,6 @@
+torch
+accelerate
+huggingface_hub
+gradio
+git+https://github.com/andimarafioti/transformers.git@idefics3
+spaces
